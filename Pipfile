@@ -19,7 +19,7 @@ numexpr = "*"
 lxml = "*"
 requests = "*"
 gunicorn = "*"
-dash-bootstrap-components = "*"
+dash-bootstrap-components = "<1"
 black = "*"
 
 [dev-packages]

@@ -7,7 +7,7 @@
 
 Link to Google Doc [Group Notes][doc].
 
-[doc]: länk
+[doc]: https://docs.google.com/document/d/1lkwUc3QNVqzh9WDuSqCB6tbXnDlAKjT1yxRv9KSgBg4/edit#
 
 ---
 ## Goal of this project
