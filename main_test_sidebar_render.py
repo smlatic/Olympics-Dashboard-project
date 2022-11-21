@@ -22,7 +22,7 @@ app = Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 
 # Render deployment
-server.appserver
+server= app.server
 
 
 
