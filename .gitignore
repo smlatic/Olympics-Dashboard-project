@@ -127,6 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-main_example.py
-main_test_sidebar_ES.py
-graphs_es.ipynb

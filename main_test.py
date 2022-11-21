@@ -13,7 +13,7 @@ olympicdata = pd.read_csv("Data/athlete_events.csv")
 
 # Create the Dash app
 app = Dash(__name__)
-
+server.appserver
 
 # Set up app layout
 app.layout = html.Div(
@@ -44,7 +44,7 @@ def update_graph(selected_noc):
 
 
 
-# Run local server
-if __name__ == "__main__":
-  # app.run_server(debug=True)
-    app.run_server(port=8050)
+# # Run local server
+# if __name__ == "__main__":
+#   # app.run_server(debug=True)
+#     app.run_server(port=8050)
